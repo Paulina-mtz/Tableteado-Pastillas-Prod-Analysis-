@@ -70,8 +70,7 @@ An interactive application was developed using Streamlit to:
 
 ## Repository Structure
 
-## Repository Structure
-
+```bash
 .
 ├── Pastillas_Prod_Analysis.py   # Data analysis and modeling
 ├── app.py                       # Streamlit application
