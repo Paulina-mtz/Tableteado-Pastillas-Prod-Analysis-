@@ -70,24 +70,13 @@ An interactive application was developed using Streamlit to:
 
 ## Repository Structure
 
-tablet-production-analysis/
-│
-├── data/
-│   └── datos.csv
-│
-├── src/
-│   └── tablet_friability_analysis.py
-│
-├── app/
-│   └── app.py
-│
-├── docs/
-│   └── pisa_challenge.pdf
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
+## Repository Structure
 
+.
+├── Pastillas_Prod_Analysis.py   # Data analysis and modeling
+├── app.py                       # Streamlit application
+├── datos.csv                    # Dataset
+├── README.md
 
 ⸻
 
