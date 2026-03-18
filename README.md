@@ -76,6 +76,7 @@ An interactive application was developed using Streamlit to:
 ├── app.py                       # Streamlit application
 ├── datos.csv                    # Dataset
 ├── README.md
+```
 
 ⸻
 
